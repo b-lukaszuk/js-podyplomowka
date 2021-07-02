@@ -55,7 +55,7 @@ wystąpień w tytułach filmów:
 - 20px ...
 - 24px jeśli występuje 5 lub więcej razy.
 
-#### Filtrowanei po tagach
+#### Filtrowanie po tagach
 
 Kliknięcie w tag powoduje odfiltrowanie filmów -
 wyświetlone zostaną tylko te, których tytuł zawiera wskazane słowo
