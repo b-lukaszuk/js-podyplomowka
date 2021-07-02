@@ -27,7 +27,7 @@ inną klasę, która zmieni mu tło.
 
 ### Select - lista filmow - filtrowanie po roku
 
-Na podstawie lat premier filmów stwórz i wypełnij listę <select>.
+Na podstawie lat premier filmów stwórz i wypełnij listę `<select>`.
 Zadbaj, aby lata nie powtarzał się na niej i
 były uporządkowane rosnąco.
 Wybranie roku z listy powinno spowodować przefiltrowanie kafelków -
