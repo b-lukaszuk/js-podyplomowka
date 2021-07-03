@@ -1,6 +1,6 @@
 # js-podyplomowka
 
-**Deployed version ->** [Here](https://b-lukaszuk.github.io/deployed_projects/moviesTiles/moviesTiles.html)
+**Deployed version ->** [Here](https://b-lukaszuk.github.io/deployedProjects/moviesTiles/moviesTiles.html)
 
 Zadanie zaliczeniowe na koniec semestru 1 z 'Podstawy JavaScript'<br>
 Podyplomowka PB Front-End Develpment 2019/2020<br>
